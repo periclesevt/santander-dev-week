@@ -1,4 +1,3 @@
-// src/main/java/me/dio/santander_dev_week/controller/UserController.java
 package me.dio.santander_dev_week.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
