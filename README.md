@@ -43,3 +43,7 @@ classDiagram
   User "1" *-- "N" News
 
 ```
+
+## URL Publica do Deploy
+
+https://santander-dev-week-production-bc1c.up.railway.app/swagger-ui.html
